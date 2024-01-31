@@ -1,16 +1,16 @@
-import localeLogin from '@/views/login/locale/zh-CN';
-import localeSysMenu from '@/views/admin/menu/locale/zh-CN';
-import localeWorkplace from '@/views/dashboard/workplace/locale/zh-CN';
-import localeLogLogin from '@/views/log/login/locale/zh-CN';
-import localeIconPicker from '@/components/icon-picker/locale/zh-CN';
-import localeLogOpera from '@/views/log/opera/locale/zh-CN';
-import localeSysDept from '@/views/admin/dept/locale/zh-CN';
-import localeSysApi from '@/views/admin/api/locale/zh-CN';
-import localeServerMonitor from '@/views/monitor/server/locale/zh-CN';
-import localeRedisMonitor from '@/views/monitor/redis/locale/zh-CN';
-import localeSysUser from '@/views/admin/user/locale/zh-CN';
-import localeSysRole from '@/views/admin/role/locale/zh-CN';
-import localeSettings from './zh-CN/settings';
+import localeLogin from '@/views/login/locale/ko-KR';
+import localeSysMenu from '@/views/admin/menu/locale/ko-KR';
+import localeWorkplace from '@/views/dashboard/workplace/locale/ko-KR';
+import localeLogLogin from '@/views/log/login/locale/ko-KR';
+import localeIconPicker from '@/components/icon-picker/locale/ko-KR';
+import localeLogOpera from '@/views/log/opera/locale/ko-KR';
+import localeSysDept from '@/views/admin/dept/locale/ko-KR';
+import localeSysApi from '@/views/admin/api/locale/ko-KR';
+import localeServerMonitor from '@/views/monitor/server/locale/ko-KR';
+import localeRedisMonitor from '@/views/monitor/redis/locale/ko-KR';
+import localeSysUser from '@/views/admin/user/locale/ko-KR';
+import localeSysRole from '@/views/admin/role/locale/ko-KR';
+import localeSettings from './ko-KR/settings';
 
 export default {
   'menu.dashboard': '대시 보드',

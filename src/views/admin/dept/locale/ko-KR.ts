@@ -1,0 +1,37 @@
+export default {
+  'menu.system.sysDept': '부서 관리',
+  // form
+  'admin.dept.form.name': '부서 이름',
+  'admin.dept.form.name.placeholder': '부서 이름을 입력하세요',
+  'admin.dept.form.leader': '담당자',
+  'admin.dept.form.leader.placeholder': '담당자를 입력하세요',
+  'admin.dept.form.phone': '연락처',
+  'admin.dept.form.phone.placeholder': '연락처를 입력하세요',
+  'admin.dept.form.status': '상태',
+  'admin.dept.form.status.1': '정상',
+  'admin.dept.form.status.0': '사용 중지',
+  'admin.dept.form.selectDefault': '전체',
+  'admin.dept.form.search': '검색',
+  'admin.dept.form.reset': '초기화',
+  'admin.dept.form.parent_name': '상위 부서',
+  'admin.dept.form.parent_name.placeholder': '최상위',
+  'admin.dept.form.name.help': '부서 이름은 필수 항목입니다',
+  'admin.dept.form.email.placeholder': '이메일을 입력하세요',
+  'admin.dept.form.sort.placeholder': '정렬을 입력하세요',
+  // button
+  'admin.dept.button.create': '추가',
+  'admin.dept.button.collapse': '펼치기/접기',
+  // drawer
+  'admin.dept.columns.new.drawer': '신규 부서',
+  'admin.dept.columns.edit.drawer': '부서 수정',
+  'admin.dept.columns.delete.drawer': '부서 삭제',
+  // columns
+  'admin.dept.columns.name': '부서 이름',
+  'admin.dept.columns.parent_name': '상위 부서',
+  'admin.dept.columns.sort': '정렬',
+  'admin.dept.columns.leader': '담당자',
+  'admin.dept.columns.phone': '연락처',
+  'admin.dept.columns.email': '이메일',
+  'admin.dept.columns.status': '상태',
+  'admin.dept.columns.created_time': '생성 시간',
+};

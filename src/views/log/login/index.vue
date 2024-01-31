@@ -158,11 +158,6 @@
       slotName: 'device',
     },
     {
-      title: t('log.login.columns.city'),
-      dataIndex: 'city',
-      slotName: 'city',
-    },
-    {
       title: t('log.login.columns.status'),
       dataIndex: 'status',
       slotName: 'status',

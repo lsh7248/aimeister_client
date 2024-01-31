@@ -17,7 +17,6 @@ export default {
   'log.login.columns.ip': 'IP',
   'log.login.columns.browser': 'Browser',
   'log.login.columns.device': 'Device',
-  'log.login.columns.city': 'City',
   'log.login.columns.status': 'Status',
   'log.login.columns.msg': 'Message',
   'log.login.columns.login_time': 'Login time',

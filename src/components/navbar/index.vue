@@ -129,25 +129,25 @@
             <a-doption>
               <a-space @click="switchRoles">
                 <icon-tag />
-                <span> 切换角色 </span>
+                <span> 역할전환 </span>
               </a-space>
             </a-doption>
             <a-doption>
               <a-space @click="$router.push({ name: 'Info' })">
                 <icon-user />
-                <span> 个人信息 </span>
+                <span> 개인정보 </span>
               </a-space>
             </a-doption>
             <a-doption>
               <a-space @click="$router.push({ name: 'Setting' })">
                 <icon-settings />
-                <span> 用户设置 </span>
+                <span> 사용자 설정 </span>
               </a-space>
             </a-doption>
             <a-doption>
               <a-space @click="handleLogout">
                 <icon-export />
-                <span> 退出登录 </span>
+                <span> 로그아웃 </span>
               </a-space>
             </a-doption>
           </template>

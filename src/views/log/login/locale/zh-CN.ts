@@ -17,7 +17,6 @@ export default {
   'log.login.columns.ip': 'IP',
   'log.login.columns.browser': '浏览器',
   'log.login.columns.device': '设备',
-  'log.login.columns.city': '城市',
   'log.login.columns.status': '状态',
   'log.login.columns.msg': '消息',
   'log.login.columns.login_time': '登录时间',
